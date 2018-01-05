@@ -19,3 +19,18 @@ https://twitter.com/remotelist_io -
 
 https://www.indeed.com/ -
 [Indeed](https://www.indeed.com/)
+
+https://goremotejobs.com/ -
+[Go Remote Jobs](https://goremotejobs.com/)
+
+https://angel.co/ -
+[Angel List](https://angel.co/)
+
+https://authenticjobs.com/#remote=true -
+[Authentic Jobs](https://authenticjobs.com/#remote=true)
+
+https://europeremotely.com/ -
+[Europe Remotely](https://europeremotely.com/)
+
+https://europeremotely.com/ -
+[Europe Remotely](https://europeremotely.com/)
